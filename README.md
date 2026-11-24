@@ -1,18 +1,29 @@
-<h1 align="center">Hi 👋, I'm Yousef Mohamed</h1>
-<h3 align="center">A passionate iOS developer</h3>
+# Yousef Mohamed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeoct91&label=Profile%20views&color=0e75b6&style=flat" alt="joeoct91" /> </p>
+iOS Engineer at Boutiqaat · Cairo, Egypt
 
-- 🔭 I’m currently working on **Raven Express B2B**
+I build the layer your app stands on.
 
-- 🌱 I’m currently learning **Combine, Swift UI**
+I'm an iOS engineer with six years of building native apps in Swift, SwiftUI and UIKit. The work I enjoy most sits underneath the screens. Navigation you can test, overlays that know where they came from, and tooling that keeps releases calm.
 
-- 📫 How to reach me **youseef.elserwey@gmail.com**
+### Work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joeoct91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeoct91" height="30" width="40" /></a>
-</p>
+- **Boutiqaat** · Senior iOS Engineer. The production iOS app, from analytics and layout to Liquid Glass on iOS 26.
+- **Pleny** · iOS Engineer. I wrote the first commit and the modular architecture, and I've worked on every critical part of the app since, from the feed and stories to media and CI.
+- **bzaaarz at Bazzar Gate** · iOS Engineer. Bazzar Gate's e-commerce app in Kuwait, rebuilt from UIKit to SwiftUI on a clean, modular architecture, with an automated Xcode Cloud pipeline. [App Store](https://apps.apple.com/kw/app/bzaaarz/id6448076974)
+- **Hassan Tarabih** · An iOS app for a law lecturer's students, with video lectures, in-app PDFs and course subscriptions in Arabic and English. On the App Store since 2023. [App Store](https://apps.apple.com/eg/app/hassan-tarabih/id6473123856)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Open source
+
+- **Waypoint** · Typed, testable navigation for iOS. [Docs](https://waypoint-docs-9zj.pages.dev/)
+- **Lightfold** · Overlay engine for iOS. Galleries, menus and toasts that grow out of the view they belong to and return to it.
+
+Both are MIT and in development. The code opens here when they're ready.
+
+### Toolbox
+
+Swift · SwiftUI · UIKit · Structured concurrency · Combine · AVFoundation · Swift Package Manager · Tuist · fastlane · Xcode Cloud
+
+### Get in touch
+
+Open for consulting. [Book a 30-minute call](https://cal.com/yousefmohamed/consult) · [yousefmohamed.com](https://yousefmohamed.com) · [LinkedIn](https://linkedin.com/in/joeoct91)
